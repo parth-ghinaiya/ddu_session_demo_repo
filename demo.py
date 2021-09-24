@@ -1,1 +1,1 @@
-IMport some dummy content.
+IMport some dummy content that has conflict from the other branch.
